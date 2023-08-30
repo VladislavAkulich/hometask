@@ -1,0 +1,18 @@
+### robotframework ###
+log.html
+output.xml
+report.html
+selenium-screenshot-*.png
+
+### Environments ###
+.env
+.venv
+
+### IDE ###
+.idea
+
+### Python ###
+__pycache__/
+
+### macOS ###
+.DS_Store
